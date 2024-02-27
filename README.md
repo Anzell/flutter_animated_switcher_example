@@ -18,7 +18,7 @@ You can customize the splash screen animation by modifying the `SplashApp` class
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/flutter_splash_animation_example.git`
+1. Clone the repository: `git clone https://github.com/anzell/flutter_splash_animation_example.git`
 2. Navigate into the project directory: `cd flutter_splash_animation_example`
 3. Install the dependencies: `flutter pub get`
 4. Run the application: `flutter run`
